@@ -60,5 +60,5 @@ ul {
 ul li {
     font-size: 20px;
     background: url('icon.png') no-repeat left center;
-    padding-left: 25px; /* Space for the icon */
+    padding-left: 25px; 
 }
