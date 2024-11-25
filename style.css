@@ -1,0 +1,64 @@
+body {
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Tahoma, Geneva, sans-serif;
+    margin-left: 40%;
+    color: #38271d;
+}
+
+#tartalom {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    margin: 20px;
+}
+
+h1 {
+    color: #1c1815;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-variant: small-caps;
+    text-decoration: underline;
+    color: #1c1815;
+    font-size: 24px;
+}
+
+p {
+    margin: 15px 0;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+}
+
+img {
+    border: 2px solid black;
+}
+
+.logo {
+    width: 40%;
+    display: block;
+    margin: 15px auto;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    font-size: 20px;
+    background: url('icon.png') no-repeat left center;
+    padding-left: 25px; /* Space for the icon */
+}
